@@ -56,6 +56,6 @@ ht-degree: 2%
 
 * **[!UICONTROL 상승도]**: 기준선에 대한 해당 처리의 전환율 개선 비율을 측정합니다.
 
-* **[!UICONTROL 신뢰도]**: 해당 처리가 기준 처리와 동일하다는 증거입니다. [자세히 알아보기](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 신뢰도]**: 해당 처리가 기준 처리와 동일하다는 증거입니다. [자세히 알아보기](http://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 기여도]**: 특정 실험 또는 처리에 기인할 수 있는 지표의 전체 변경 비율입니다. 이를 통해 상대적 영향이 가장 큰 이니셔티브를 식별할 수 있습니다.
