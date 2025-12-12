@@ -1,11 +1,11 @@
 ---
 user-guide-title: Experimentation Accelerator
-breadcrumb-title: 실험 촉진제
-user-guide-description: 실험 가속기를 사용하여 실험을 추적 및 모니터링합니다.
+breadcrumb-title: Experimentation Accelerator
+user-guide-description: Experimentation Accelerator를 사용하여 실험을 추적하고 모니터링합니다.
 source-git-commit: 83cc6dccc20323efc96a09ee1bfda0aa38e52009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
