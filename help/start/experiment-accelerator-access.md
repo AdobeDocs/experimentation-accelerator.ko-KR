@@ -7,7 +7,7 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: 콘텐츠, 실험, 다중, 대상자, 처리
-source-git-commit: 4f30411591ab3bec4b749cfb58f437ddb3474ffa
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 18%
@@ -16,7 +16,7 @@ ht-degree: 18%
 
 # Journey Optimizer Experimentation Accelerator 액세스
 
-[실험을 만들고 구성](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)한 후 캠페인이나 여정을 프로필에 전송하면 **[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;에 액세스하여 실험의 성과를 자세히 살펴볼 수 있습니다.
+[실험을 만들고 구성](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)한 후 캠페인이나 여정을 프로필에 전송하면 **[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;에 액세스하여 실험의 성과를 자세히 살펴볼 수 있습니다.
 
 [!UICONTROL 실험] 드롭다운의 왼쪽 메뉴에서 또는 앱 전환기를 통해 **[!UICONTROL Journey Optimizer Experimentation Accelerator]**&#x200B;에 액세스할 수 있습니다. Target 라이선스만 있는 사용자는 앱 전환기를 통해서만 액세스할 수 있습니다.
 
@@ -104,11 +104,13 @@ ht-degree: 18%
 +++
 
 
-<!--table style="table-layout:fixed"><tr style="border: 0;">
+<!--
+table style="table-layout:fixed"><tr style="border: 0;">
 <td><img alt="Overview" href="experiment-accelerator-overview.md" src="assets/do-not-localize/experiments-2.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-overview.md">Overview</a></strong></p></div></td>
 <td><img alt="Experiments" href="experiment-accelerator-monitor.md" src="assets/do-not-localize/experiment-overview.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-monitor.md">Experiments</a></strong></p></div></td>
 <td><img alt="Metrics" href="experiment-accelerator-metrics.md" src="assets/do-not-localize/experiment-metrics.png">
 <div align="center"><p><strong><a href="experiment-accelerator-metrics.md">Metrics</a></strong></p></div></td>
-</tr></table-->
+</tr></table
+-->
