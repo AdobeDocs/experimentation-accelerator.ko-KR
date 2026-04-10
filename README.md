@@ -1,8 +1,8 @@
 ---
 source-git-commit: 862c4dc768f62c0aae7ae27c9498fcf8269db737
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 100%
+source-wordcount: '521'
+ht-degree: 93%
 
 ---
 # 기여자 문서
@@ -26,8 +26,8 @@ Adobe는 문서 팀의 외부 직원뿐만 아니라 커뮤니티로부터의 �
 사소한 업데이트에 참여하는 경우:
 
 1. 편집할 주제로 이동합니다.
-1. 브라우저 창 하단에 나타나는 “콘텐츠가 도움이 되었나요?” 배너에서 **상세 피드백 옵션**&#x200B;을 클릭합니다.
-1. **편집 제안**&#x200B;을 클릭하고 GitHub UI의 변경 사항이 포함된 가져오기 요청(PR)을 제출합니다.
+1. 브라우저 창 하단에 나타나는 브라우저 창 아래쪽에 표시되는 배너는 **자세한 피드백 옵션**&#x200B;을 클릭합니다.
+1. **편집 제안**&#x200B;을 클릭하고 GitHub UI의 변경 사항과 함께 가져오기 요청(PR)을 제출하십시오.
 
    자세한 내용은 일반 [Adobe 문서 기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko)를 참조하십시오.
 
@@ -53,8 +53,8 @@ Adobe Experience Cloud 솔루션에 대한 제품 팀의 테크니컬 라이터,
 
 이 저장소의 모든 문서는 GitHub 버전의 마크다운을 사용합니다. 마크다운에 익숙하지 않은 경우 다음을 참조하십시오.
 
-* [마크다운 기본 사항](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [인쇄 가능한 마크다운 치트시트](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Markdown 기본 사항](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [인쇄 가능한 Markdown 치트시트](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## 레이블
 
