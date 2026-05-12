@@ -7,9 +7,16 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: 콘텐츠, 실험, 다중, 대상자, 처리
-source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
+TQID: https://experienceleague.adobe.com/IdmANJYjfwZM29SBj0fDH-BzBet54Zq0VGmIMRRn-hE
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04id: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: 743
 ht-degree: 6%
 
 ---
@@ -85,11 +92,11 @@ A/B 테스트는 정의된 목표에 대해 성과가 더 좋은 항목을 결�
 좋은 실험은 단지 승리를 만들어내는 것이 아니라, 분명하고 실행 가능한 학습을 만들어낸다.
 찾을 내용은 다음과 같습니다.
 
-&check; **통계적 신뢰도**: 변형 간의 차이는 우연한 것일 가능성이 없습니다.
-&check; **목표 정렬**: 기본 지표는 비즈니스 목표에 대한 의미 있는 진행률을 반영합니다.
-&check; **2차 영향**: 관련 지표에 대한 심각한 부정적인 부작용이 없습니다.
-&check; **확장성**: 이 결과는 향후 의사 결정에 영향을 주거나 다른 영역으로 일반화될 수 있습니다.
-&check; **명확성**: 결과의 원인은 합리적으로 격리되고 이해됩니다.
+&amp;check; **통계적 신뢰도**: 변형 간의 차이는 우연한 것일 가능성이 없습니다.
+&amp;check; **목표 정렬**: 기본 지표는 비즈니스 목표에 대한 의미 있는 진행률을 반영합니다.
+&amp;check; **2차 영향**: 관련 지표에 대한 심각한 부정적인 부작용이 없습니다.
+&amp;check; **확장성**: 이 결과는 향후 의사 결정에 영향을 주거나 다른 영역으로 일반화될 수 있습니다.
+&amp;check; **명확성**: 결과의 원인은 합리적으로 격리되고 이해됩니다.
 
 실험은 단지 &quot;최상의&quot; 버전을 찾는 것이 아니라, 테스트와 반복을 통해 지식을 쌓는 것입니다. 잘 수행되면 실험은 더 현명한 의사 결정, 더 나은 사용자 경험 및 향상된 결과를 도출하는 통찰력을 보여줍니다.
 

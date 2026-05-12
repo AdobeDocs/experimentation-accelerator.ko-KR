@@ -2,15 +2,22 @@
 solution: Journey Optimizer
 product: journey optimizer
 title: Journey Optimizer Experimentation Accelerator 지표
-description: 실험을 효과적으로 수행하고 통찰력을 생성할 수 있는 역량 향상
+description: 실험을 효과적으로 수행하고 인사이트를 생성할 수 있도록 역량을 향상하십시오.
 topic: Content Management
 role: User
 level: Beginner
-keywords: 내용, 실험, 복수, 대상자, 처리
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+keywords: 콘텐츠, 실험, 다중, 대상자, 처리
+TQID: https://experienceleague.adobe.com/OrtdIfQfKMIWODRi9fr-dEuc7g06hISv6-Dq-54qGeY
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04id: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 2%
+source-wordcount: 364
+ht-degree: 6%
 
 ---
 
@@ -22,7 +29,7 @@ ht-degree: 2%
 
 **[!UICONTROL 지표]** 탭에 액세스할 때 Journey Optimizer 및 Adobe Target에서 사용 가능한 모든 성공 지표가 통합 보기로 나열되므로 이니셔티브 간 성과를 추적하고, 결과를 비교하고, 주의가 필요한 영역을 신속하게 식별할 수 있습니다.
 
-![](assets/do-not-localize/Smock_Filter_18_N.svg)Source **[!UICONTROL 또는]**&#x200B;활성 실험에 사용&#x200B;**[!UICONTROL 을 통한 필터링과 같은 컨텍스트별 옵션을 제공하는]**&#x200B;을(를) 클릭하여 필터에 액세스합니다.
+**[!UICONTROL Source]** 또는 **[!UICONTROL 활성 실험에 사용]**&#x200B;을 통한 필터링과 같은 컨텍스트별 옵션을 제공하는 ![](assets/do-not-localize/Smock_Filter_18_N.svg)을(를) 클릭하여 필터에 액세스합니다.
 
 또는 검색 막대에 지표의 이름을 입력하여 지표를 신속하게 찾을 수 있습니다.
 
@@ -56,6 +63,6 @@ ht-degree: 2%
 
 * **[!UICONTROL 상승도]**: 기준선에 대한 해당 처리의 전환율 개선 비율을 측정합니다.
 
-* **[!UICONTROL 신뢰도]**: 해당 처리가 기준 처리와 동일하다는 증거입니다. [자세히 알아보기](http://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 신뢰도]**: 해당 처리가 기준 처리와 동일하다는 증거입니다. [자세히 알아보기](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 기여도]**: 특정 실험 또는 처리에 기인할 수 있는 지표의 전체 변경 비율입니다. 이를 통해 상대적 영향이 가장 큰 이니셔티브를 식별할 수 있습니다.
