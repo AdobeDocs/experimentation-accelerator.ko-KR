@@ -2,15 +2,33 @@
 solution: Journey Optimizer
 product: journey optimizer
 title: Journey Optimizer Experimentation Accelerator 모니터
-description: 실험을 효과적으로 수행하고 통찰력을 생성할 수 있는 역량 향상
+description: 실험을 효과적으로 수행하고 인사이트를 생성할 수 있도록 역량을 향상하십시오.
 topic: Content Management
 role: User
 level: Beginner
-keywords: 내용, 실험, 복수, 대상자, 처리
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+keywords: 콘텐츠, 실험, 다중, 대상자, 처리
+TQID: https://experienceleague.adobe.com/IYG2Jag2XtctyPaYmQfhdMm0Ac5tEg7EA7gOw7GzUk4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: b3538224-471e-4c63-a444-9b19d89ae29c
+  - id: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+  - id: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2:
+  - id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 1%
+source-wordcount: 1127
+ht-degree: 3%
 
 ---
 
@@ -29,7 +47,7 @@ ht-degree: 1%
 
 KPI 섹션은 생성된 총 실험 수와 현재 진행 중인 횟수를 포함한 주요 지표를 제공하며, 전체 실험 활동에 대한 스냅샷을 제공합니다
 
-![](assets/do-not-localize/Smock_Filter_18_N.svg)유형&#x200B;**[!UICONTROL ,]**&#x200B;별&#x200B;**[!UICONTROL ,]**&#x200B;상태&#x200B;**[!UICONTROL 또는]** Source **[!UICONTROL 별 필터링과 같은 컨텍스트별 옵션을 제공하는]**&#x200B;을(를) 클릭하여 필터에 액세스합니다. 예를 들어 Journey Optimizer의 활성 실험만 표시하도록 필터링할 수 있습니다.
+**[!UICONTROL 유형]**, **[!UICONTROL 별]**, **[!UICONTROL 상태]** 또는 **[!UICONTROL Source]**&#x200B;별 필터링과 같은 컨텍스트별 옵션을 제공하는 ![](assets/do-not-localize/Smock_Filter_18_N.svg)을(를) 클릭하여 필터에 액세스합니다. 예를 들어 Journey Optimizer의 활성 실험만 표시하도록 필터링할 수 있습니다.
 
 또는 검색 막대에 실험의 이름을 입력하여 실험에서 원하는 결과를 신속하게 찾을 수 있습니다.
 
