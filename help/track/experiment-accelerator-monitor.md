@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
+source-git-commit: c07dc7f896f9c65980339f4a7fc94123fa8afe71
 workflow-type: tm+mt
-source-wordcount: 1127
-ht-degree: 3%
+source-wordcount: 1367
+ht-degree: 2%
 
 ---
 
@@ -62,6 +62,7 @@ KPI 섹션은 생성된 총 실험 수와 현재 진행 중인 횟수를 포함�
 실험 세부 사항 페이지는 다음 섹션으로 분할됩니다.
 
 * [실험 결과](#experiment-outcome)
+* [기본 지표](#change-primary-metric)
 * [가설](#hypothesis)
 * [세부 사항](#details)
 * [기회](#opportunities)
@@ -73,6 +74,42 @@ KPI 섹션은 생성된 총 실험 수와 현재 진행 중인 횟수를 포함�
 ![](assets/experiment-monitor-outcome.png)
 
 **[!UICONTROL 실험 결과]**&#x200B;를 통해 실험에서 가장 성과가 좋은 변형을 빠르게 볼 수 있습니다.
+
+### 기본 지표 변경 {#change-primary-metric}
+
+>[!AVAILABILITY]
+>
+>**[!UICONTROL 실험 메타데이터 관리]** 권한이 있는 사용자만 기본 지표를 변경할 수 있습니다.
+
+기본 지표 변경은 **[!DNL Adobe Target]** 또는 **[!DNL Adobe Journey Optimizer]**&#x200B;에서 만든 실험에 대한 보고 소스로 **[!DNL Customer Journey Analytics]** 또는 **[!DNL Adobe Analytics]**&#x200B;을(를) 사용하는 팀에 적용됩니다.
+
+기본 지표를 설정하거나 변경할 때 다음 사항에 유의하십시오.
+
+* 한 번에 하나의 지표를 가져옵니다. 선택한 항목은 해당 실험의 기본 지표로 저장됩니다.
+
+* 업데이트는 Journey Optimizer Experimentation Accelerator에만 적용됩니다. Adobe Target 또는 Adobe Journey Optimizer에 다시 기록되지 않습니다.
+
+* 조직에서 Adobe Target만 보고 소스로 사용하는 경우 테스트가 게시된 후 기본 지표를 변경할 수 없습니다.
+
+기존 실험에 대한 기본 지표를 변경하려면 다음 단계를 따르십시오.
+
+1. 실험에서 할당되지 않은 경우 **[!UICONTROL 기본 지표 선택]**&#x200B;을 클릭하고, 변경하려는 경우 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+
+   ![](assets/primary-metric-1.png)
+
+1. 이 실험이 **[!DNL Adobe Target]** 또는 **[!DNL Adobe Journey Optimizer]**&#x200B;에서 만들어졌을 때 보고 원본 집합과 일치하는 지표를 선택하십시오.
+
+   사용 가능한 지표는 **[!DNL Adobe Target]** 또는 **[!DNL Adobe Journey Optimizer]**&#x200B;에 구성된 데이터 원본에 의해 결정됩니다. 예를 들어 Target에서 보고 소스로 **[!DNL Customer Journey Analytics]**(CJA)을(를) 선택한 경우 CJA 지표만 가져올 수 있습니다. 다른 데이터 원본의 지표로 전환할 수 없으며 기본 지표를 네이티브 **[!DNL Adobe Target]** 지표로 변경할 수 없습니다.
+
+1. 검색을 사용하여 이름으로 지표를 찾거나 필터를 사용하여 활성 실험에서 이미 사용한 지표를 확인합니다.
+
+   ![](assets/primary-metric-1.png)
+
+1. 선택 내용을 저장합니다.
+
+기본 지표를 변경하면 이전에 생성된 통찰력과 기회가 지워지고 다시 생성됩니다. 재생성 중에 다음과 같은 메시지가 표시됩니다.
+
+`Opportunities are being regenerated based on the selected metric. Updates will appear soon.`
 
 ### 설정 {#set-up}
 
