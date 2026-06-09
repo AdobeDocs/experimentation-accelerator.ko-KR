@@ -200,7 +200,7 @@ KPI 섹션은 생성된 총 실험 수와 현재 진행 중인 횟수를 포함�
 
    **[!DNL Adobe Target]**&#x200B;에서 시작된 실험의 경우 제안된 변경 내용이 대신 **[!DNL Adobe Target]**&#x200B;의 실험 워크플로에 로드됩니다.
 
-   ➡️ [Adobe Target 설명서에서 자세히 알아보기](https://experienceleague.adobe.com/en/docs/target/using/activities/abtest/test-ab)
+   ➡️ [Adobe Target 설명서에서 자세히 알아보기](https://experienceleague.adobe.com/ko/docs/target/using/activities/abtest/test-ab)
 
 1. 실험 보기 내에서 Journey Optimizer Experimentation Accelerator이 표면화한 동일한 AI **[!UICONTROL 실험 기회]**&#x200B;에 액세스할 수 있습니다.
 
@@ -222,7 +222,7 @@ KPI 섹션은 생성된 총 실험 수와 현재 진행 중인 횟수를 포함�
 
 * **[!UICONTROL 상승도]**: 기준선에 대한 해당 처리의 전환율 개선 비율을 측정합니다.
 
-* **[!UICONTROL 신뢰도]**: 해당 처리가 기준 처리와 동일하다는 증거입니다. [자세히 알아보기](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 신뢰도]**: 해당 처리가 기준 처리와 동일하다는 증거입니다. [자세히 알아보기](http://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL 전환율]**: 치료를 본 후 원하는 작업(예: 구매, 등록)을 완료한 프로필의 백분율입니다.
 
